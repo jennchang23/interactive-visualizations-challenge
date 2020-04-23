@@ -1,6 +1,8 @@
 # Interactive Visualizations Challenge
 
-[Bacteria by filterforge.com](/Images/bacteria.jpg)
+<p align="center">
+  <img width="300" height="200" src="Images/bacteria.jpg">
+</p>
 
 ## Assignment: Plotly
 
