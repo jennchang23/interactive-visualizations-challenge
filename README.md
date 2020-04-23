@@ -1,6 +1,6 @@
 # Interactive Visualizations Challenge
 
-(/images/bacteria.jpg)
+[Bacteria by filterforge.com](/Images/bacteria.jpg)
 
 ## Assignment: Plotly
 
