@@ -1,6 +1,6 @@
 # Interactive Visualizations Challenge
 
-(Images/bacteria.jpg)
+(/images/bacteria.jpg)
 
 ## Assignment: Plotly
 
